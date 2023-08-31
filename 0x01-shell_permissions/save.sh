@@ -1,8 +1,12 @@
 #!/bin/bash
 
-# Add the changes to the index
 echo "input your message"
 read var
+
+# Add git status
+git status
+
+# Add the changes to the index
 git add .
 
 # Commit the changes
