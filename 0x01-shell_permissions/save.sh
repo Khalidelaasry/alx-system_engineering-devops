@@ -1,10 +1,11 @@
 #!/bin/bash
 
-echo "input your message"
-read var
 
 # Add git status
 git status
+
+echo "input your message"
+read var
 
 # Add the changes to the index
 git add .
