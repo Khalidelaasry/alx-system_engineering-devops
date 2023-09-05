@@ -1,3 +1,2 @@
 #!/bin/bash
-BEST="School"
-echo "The BEST variable contains: $BEST"
+export HOLBERTON="Betty"
