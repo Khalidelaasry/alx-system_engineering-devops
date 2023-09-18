@@ -26,7 +26,7 @@ An initial project for exploring the Bourne-again Shell (Bash).
 
 9. **8-firstdelete** - Deletes the file betty in /tmp/holberton.
 
-10. **9-firstdirdeletion** - Deletes the directory holberton in the /tmp/ directory.
+10. **9-firstdirdeletion** - Deletes the directory holberton in  the /tmp/ directory.
 
 11. **10-back** - Changes the working directory to the previous one.
 
