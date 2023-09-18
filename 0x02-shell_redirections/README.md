@@ -38,7 +38,7 @@ In this project, I've learned and practiced several key command-line tools, incl
 
 15. **It Must Be in That File** (`grep_root.sh`): Shell script that displays lines containing the pattern "root" from the file /etc/passwd.
 
-16. **Count That Word** (`count_bin.sh`): Shell script that displays the number of lines containing the pattern "bin" in the file /etc/passwd.
+16. **Count That Word** (`count_bin.sh`): Shell script that displays the number of lines containing the pattern "bin" in the file  /etc/passwd.
 
 17. **What's Next?** (`next_root.sh`): Shell script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
 
