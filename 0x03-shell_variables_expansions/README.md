@@ -9,7 +9,7 @@ This is an introductory project on configuration files, distinguishing between l
 ## Project Files
 
 1. **0-alias** - Creates an alias for `rm *` named `ls`.
-2. **1-Hello you** - Script that prints "hello user," where "user" is the current Linux user.
+2. **1-Hello you** - Script that prints "hello user," where "user"  is the current Linux user.
 3. **3-paths** - Counts the number of directories in the PATH.
 4. **4-global_variables** - Lists environment variables.
 5. **5-local_variables** - Lists all local variables and environment variables, and functions.
