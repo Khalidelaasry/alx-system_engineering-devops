@@ -1,6 +1,6 @@
 # ALX System Engineering & DevOps
 
-This repository contains projects and tasks related to System Engineering & DevOps, which covers a wide range of topics including shell scripting, networking, server management, and more. Each project focuses on specific skills and concepts essential for professionals in the field.
+This repository contains projects and tasks related to System Engineering & DevOps, which covers a wide range of topics including  shell scripting, networking, server management, and more. Each project focuses on specific skills and concepts essential for professionals in the field.
 
 ## Projects
 
